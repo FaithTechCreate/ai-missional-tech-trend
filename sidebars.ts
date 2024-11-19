@@ -19,6 +19,7 @@ const sidebars: SidebarsConfig = {
       type: "category",
       label: "Building AI for Ministry",
       items: [
+        "building/intro",
         "building/principles",
         "building/discern",
         "building/develop",
