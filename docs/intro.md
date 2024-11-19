@@ -33,7 +33,7 @@ For Christian ministries, AI offers new opportunities, such as evangelism chatbo
    - [Develop](building/develop): What qualities of a tool make it more useful to ministries?
    - [Implement](building/implement): How can builders measure the impact and effectiveness of AI tools in ministry contexts?
 1. Applying AI to Ministry
-   - [Problems](applying/principles): What problems might ministries solve with this technology?
+   - [Problems](applying/problems): What problems might ministries solve with this technology?
    - [Opportunities](applying/opportunities): What opportunities might ministries have with this technology?
    - [Needs](applying/needs): What infrastructure is needed to leverage this technology? 
    - [Challenges](applying/challenges): What hurdles might ministries face in innovating with this new technology?

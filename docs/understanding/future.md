@@ -49,7 +49,7 @@ Governments are [slowly](https://aiindex.stanford.edu/report/#individual-chapter
 - [Empowering responsible AI practices | Microsoft AI](https://www.microsoft.com/en-us/ai/responsible-ai)
 
 :::note
-For more from Christian organizations, see our [Resources](/docs/understanding/resources) section.
+For more from Christian organizations, see our [Resources](/understanding/resources) section.
 :::
 
 ### Environment
