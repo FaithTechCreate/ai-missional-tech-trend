@@ -74,6 +74,8 @@ const config: Config = {
       copyright: `Copyright © ${new Date().getFullYear()} FaithTech. Built with Docusaurus.`,
     },
   } satisfies Preset.ThemeConfig,
+
+  plugins: [require.resolve("docusaurus-lunr-search")],
 };
 
 export default config;
