@@ -7,6 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Risks of AI in Ministry Contexts
 
+Key risks include the illusion of intimacy from AI companions, privacy vulnerabilities and data breaches, ethical drift from embedded secular assumptions, and idolatry of technological efficiency over spiritual discernment. Theological misalignment, misinformation, and dependency on proprietary platforms also pose threats if not properly guided by Christian ethics.
+
 ## Bias & Misalignment
 
 ### Limited Objectivity
