@@ -7,7 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Building Principles for AI in Ministry
 
-When developing AI systems for ministry use, builders must consider key theological and ethical implications to ensure their systems uphold human dignity and align with biblical values.
+Builders should develop AI with theological integrity and ethical foresight, grounded in the biblical narrative of creation, fall, redemption, and new creation. They must prioritize data privacy, transparency, and justice, resisting the allure of technological idolatry. Building with humility, they must ask not just 'can we build this?' but 'should we, and whom does it serve?'
+
 
 ## Biblical Grounding
 
