@@ -9,7 +9,7 @@ keywords: [AI, ministry, technology, faithtech]
 
 ## AI in Everyday Life
 
-Since the release of ChatGPT in late 2022, AI has dominated technology headlines. However, while popular culture often presents AI in futuristic ways, more mundane AI systems are already embedded in many people's daily lives.
+By early 2025, ChatGPT has over 400 million weekly users. Ministries use AI for tasks like sermon preparation, content translation, prayer chatbots, and donor engagement. AI now functions through mobile apps, wearables, and integrated enterprise tools like Microsoft Copilot and Google Duet AI. Open-source tools such as LLaMA 2 and Mistral are expanding access even to low-resource contexts.
 
 Even before ChatGPT, AI systems were being used commercially (and [for fun](https://quickdraw.withgoogle.com/)) in numerous contexts, generally at corporate and industry levels, and as built-in services to consumers:
 
