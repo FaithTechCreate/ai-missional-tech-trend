@@ -7,7 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # How AI Impacts Faith
 
-Current *perceptions* of AI may challenge people's faith more than the actual technology itself. Hopes and fears about an "artificial superintelligence" far outstrip what current AI systems are capable of. Experts agree, the depictions we see in movies are decades away at best, if not altogether unlikely or even impossible. Nonetheless, popular opinion believes that advances like these could bring about "robot overlords" and replace humanity in some significant way. Hopefully, this report can help right-size people's expectations, hopes, and fears.
+AI can deepen spiritual engagement and support personalized discipleship, but also risks encouraging isolation or over-dependence on non-human guidance. Ministries must anchor their use of AI in embodied community and the indwelling of the Holy Spirit.
+
 
 ## AI Winning *Jeopardy!*
 
