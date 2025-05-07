@@ -7,7 +7,7 @@ keywords: [AI, ministry, technology, faithtech]
 
 # What is Artificial Intelligence?
 
-The term “Artificial Intelligence” often evokes images of personas like HAL, Terminator, or Ex Machina. And while AI has aspired to create artificial persons, AI systems are “[mostly used for infrastructure](https://medium.com/ai-and-christianity/artificial-intelligence-in-christian-thought-and-practice-20ec8635a94f)” that are both less flashy and more ubiquitous than what Hollywood has imagined. Moreover, far from the general intelligence many are dreaming of, most AI systems are narrowly focused on very specific and tractable tasks, like identifying cats or human emotions.
+The term “Artificial Intelligence” often evokes images of personas like HAL, Terminator, or Ex Machina. And while AI has aspired to create artificial persons, AI systems are “[mostly used for infrastructure](https://medium.com/ai-and-christianity/artificial-intelligence-in-christian-thought-and-practice-20ec8635a94f)” that are both less flashy and more ubiquitous than what Hollywood has imagined. Moreover, far from the general intelligence many are dreaming of, most AI systems have been narrowly focused on very specific and tractable tasks, like identifying cats or human emotions.
 
 ## Defining AI
 
