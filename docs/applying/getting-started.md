@@ -7,7 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Getting Started with AI in Ministry
 
-Getting started with AI requires careful planning and realistic expectations. Here are key considerations for ministries beginning their AI journey:
+To begin, ministries should educate staff through FaithTech’s Redemptive AI Course, audit existing workflows, start with small pilots, create tech-ethics teams, and collaborate with other churches or developers. Every initiative should be wrapped in prayer and guided by theological discernment.
+
 
 ## Timeline Expectations
 
