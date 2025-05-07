@@ -7,6 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # AI in Ministry: Case Studies and Current Applications
 
+Case studies include AI chatbots in youth ministries, vision-based tools for accessibility, prayer bots for seekers, multilingual sermon translation, and donor communication automation in faith-based nonprofits. These projects showcase redemptive uses when paired with human oversight.
+
 Here are several examples of how AI is being actively used in ministry contexts today:
 
 ## Compassion International's Digital Registration
