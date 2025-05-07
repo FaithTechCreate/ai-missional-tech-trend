@@ -35,7 +35,9 @@ keywords: [AI, ministry, technology, faithtech]
 - ["Indigenous Protocol and AI"](https://www.indigenous-ai.net/position-paper) is focused on Indigenous peoples in the Pacific and North America, but their concerns and views can be instructive for using AI ethically in relation to the values within Indigenous cultures. The "Guidelines for Indigenous-Centered AI Design" is a simple place to start
 - Theologian Noreen Herzfeld [video](https://www.youtube.com/watch?v=wQRV5LWEtpg) looks at AI through the lens of neighbor, neighborhood, and the image of God, asking whether AI is our neighbor, whether it images God, and how it reformats our neighborhood of relationships
 - MorningBrew.com has a more in-depth [history](https://www.morningbrew.com/emerging-tech/guides/what-is-ai) of AI
+- [EU AI Act](https://artificialintelligenceact.eu/)
 
 ## Books
 
 - [_The Robot Will See You Now: Artificial Intelligence and the Christian Faith_](https://spckpublishing.co.uk/the-robot-will-see-you-now). This book was published in the UK in 2021
+- [ Surprised By Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church ](https://spckpublishing.co.uk/surprised-by-hope). This book was published in the UK in 2011
