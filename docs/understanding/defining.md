@@ -11,7 +11,8 @@ The term “Artificial Intelligence” often evokes images of personas like HAL,
 
 ## Defining AI
 
-There is no agreed-upon definition of what AI is. Moreover, there are multiple ways one might try to define AI: (a) what it’s intended to do, (b) what it does or how it works, or (c) what it is. We might also do well to define what it is not. 
+AI is evolving rapidly from narrow task-based systems into more general, multimodal, and human-like models. Large language models like Open AI’s 03 & 04 series, Anthropic’s Claude 3.7, and Google’s Gemini now reason, plan, and interact across text, speech, and images. AI is no longer a niche utility but a foundational infrastructure—comparable to electricity—permeating how we learn, work, and worship.
+
 
 ### By Intention
 What AI is intended to do:
