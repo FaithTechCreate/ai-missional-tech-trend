@@ -7,6 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Problems AI Can Solve in Ministry
 
+AI can help address pastoral burnout, multilingual barriers in worship, discipleship gaps in remote areas, education and training, and content fatigue. It offers solutions for improving ministry support, resource creation, and digital communication.
+
 ## Internal & External Applications
 Ministry leaders might think about applying AI in two different ways—internally and/or externally. Internally, AI could be used within the organization in various processes or in research. In this case, AI may supplement (and occasionally displace) existing roles within the organization and change how various people and departments relate to one another. Externally, organizations could use AI to deliver goods or services to their target population. In this case, AI will supplement how the organization fulfills its mandate and will alter how the organization relates to those it serves.
 

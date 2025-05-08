@@ -7,6 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Biblical and Theological Points of Reference
 
+The biblical ethical framework for AI includes the Imago Dei—affirming human dignity as non-negotiable, and a commitment to redemptive creation that resists the spirit of Babel. AI must be aligned with the Great Commandment and the Great Commission and be implemented through community discernment. Ultimately, our hope is in Jesus—not in technological advancement—and AI is a system that must be subjected to His lordship.
+
 ## Imago Dei
 
 The *imago dei* is a key category Christians can use for evaluating AI systems. Multiple views exist that suggest what the image of God is for humans:

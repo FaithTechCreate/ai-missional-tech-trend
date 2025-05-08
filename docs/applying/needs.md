@@ -7,7 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Infrastructure Needs for AI in Ministry
 
-What infrastructure do ministries need to leverage AI effectively? Here are the key requirements:
+To leverage AI effectively, ministries need cloud-based platforms (e.g., Azure, AWS), access to open-source models, secure and affordable hardware, plugin-ready software tools, and a robust ethical framework supported by staff training in digital discipleship.
+
 
 ## Staff Education
 

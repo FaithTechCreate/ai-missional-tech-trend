@@ -7,7 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # What AI Systems Might Be Useful to Ministries?
 
-To explore AI possibilities for ministry contexts, we developed a matrix crossing AI techniques with areas of Christian ministry. This systematic approach helps identify concrete opportunities for AI integration in ministry work.
+Potential ministry tools include Bible Q&A bots with theological safeguards, discipleship companions tailored to youth and seekers, AI-driven sermon illustrators, chatbots that triage pastoral care, and predictive models for community engagement and mission field targeting. These systems can extend Gospel impact when ethically and wisely applied.
+
 
 ## AI Techniques Taxonomy
 

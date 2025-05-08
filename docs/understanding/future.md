@@ -9,7 +9,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Where is AI Going?
 
-The future of AI is hard to predict. One need only to look at past predictions to see that. In the mid 1950s, the founders of AI had [hoped](https://en.wikipedia.org/wiki/Dartmouth_workshop) to make significant strides toward solving the problem of intelligence in a single summer.
+AI is progressing toward generalized reasoning and dynamic adaptability—moving us closer to Artificial General Intelligence (AGI). The next-generation models like GPT-5, Gemini 2.5, and DeepSeek R2 unify capabilities across text, image, audio, and logic, allowing seamless interactions and deeper personalization. Ministries must prepare for a future where AI is omnipresent and emotionally responsive.
+
 
 ## Artificial General Intelligence?
 

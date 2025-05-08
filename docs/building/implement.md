@@ -7,7 +7,7 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Implementation Guide for AI Tools in Ministry
 
-This guide outlines how builders can measure the impact and effectiveness of AI tools in ministry contexts. We'll explore various metrics and approaches to ensure AI implementations align with ministry goals and Christian values.
+Impact measurement should include both quantitative metrics—such as reach, engagement, and accessibility—and qualitative feedback from pastors, users, and advisory councils. Builders should assess theological alignment, privacy compliance, and user trust, ensuring the fruit of the technology supports spiritual growth, justice, and Gospel proclamation.
 
 ## Measuring Faith Impact
 

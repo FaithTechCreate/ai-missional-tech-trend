@@ -7,7 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Opportunities
 
-Ministry organizations can start by asking, "What are our current systems of decision-making?" To this end, organizations might first consider aspects of their work where decision-making is fairly standardized and routine. In such areas, machine learning might be applied fairly directly. 
+Ministries can use AI for real-time sermon translation, prayer companions for isolated individuals, customized spiritual formation tools, outreach in closed regions, and administration automation—unlocking greater reach and spiritual depth
+ 
 
 ## Hiring Decisions
 

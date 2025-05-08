@@ -7,7 +7,8 @@ keywords: [AI, ministry, technology, faithtech]
 
 # Challenges in AI Ministry Innovation
 
-Ministry organizations face several significant hurdles when innovating with AI technology. Understanding these challenges helps organizations better prepare and plan their AI initiatives.
+Challenges include cost constraints, theological accuracy, trust issues, literacy gaps, and resistance due to fear. Ministries must be intentional, biblically grounded, and collaborative in their innovation journey.
+
 
 ## Organizational Decisions vs AI Decisions
 
